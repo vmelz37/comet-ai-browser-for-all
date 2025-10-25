@@ -14,7 +14,7 @@
 
 Comet去年7月首次亮相时，只有付费Max会员才能用。现在突然免费，显然是想快速抢占市场。
 
-![Perplexity CEO在发布会上介绍Comet浏览器](image/97845717594.webp)
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/dde109e3-77fd-4ac5-8df0-dd73dc9099d4" />
 
 这个浏览器能做什么？简单说就是帮你干脏活累活：
 - 自动总结网页内容
@@ -58,8 +58,6 @@ Perplexity之前出价345亿美元想买Chrome——这个数字远超公司200�
 "我觉得Comet不只是另一个想从Chrome抢市场份额的浏览器，"他说，"那是微软的做法。"
 
 这话听着有点酸，但也透露出Perplexity的策略——不正面硬刚，而是开辟新赛道。
-
-![Comet浏览器界面展示AI功能](image/3030543288781.webp)
 
 ## 免费策略能走多远
 
